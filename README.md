@@ -1,2 +1,2 @@
 # Cypress_Learn
-A Repository used for sole purpose of learning
+A Repository used for sole purpose of learning Cypress
